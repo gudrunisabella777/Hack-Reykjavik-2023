@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Genki Signals
 
 Genki signals is a library to do real time signal processing and machine learning on sensor data. Using this library you
@@ -13,3 +14,8 @@ pip install genki-signals
 ## Usage
 Genki Signals is designed to work in Jupyter notebooks. You can find some examples in the [examples](examples) folder.
 
+=======
+# HackReykjavik hakkathon: LINGO!
+
+Language learning system built on handriting recognition 
+>>>>>>> 7d5d1f9fbdd4f38a645fc014720ef10a11c856b1
