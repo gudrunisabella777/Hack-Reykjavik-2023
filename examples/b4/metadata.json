@@ -1,0 +1,33 @@
+{
+    "session_name": "b4",
+    "system_user": "Lenovo",
+    "timestamp": "2023-05-20_15:39:48",
+    "argv": [
+        "c:\\Users\\Lenovo\\anaconda3\\envs\\hakkathon\\lib\\site-packages\\ipykernel_launcher.py",
+        "--ip=127.0.0.1",
+        "--stdin=9008",
+        "--control=9006",
+        "--hb=9005",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"096d7e4d-6525-47d1-b473-2064828acee0\"",
+        "--shell=9007",
+        "--transport=\"tcp\"",
+        "--iopub=9009",
+        "--f=c:\\Users\\Lenovo\\AppData\\Roaming\\jupyter\\runtime\\kernel-v2-292568nAx8AU4iy5R.json"
+    ],
+    "platform": "win32",
+    "data_source": "Sampler",
+    "sample_rate": 100,
+    "signal_functions": [
+        {
+            "__signal_function__": true,
+            "type": "Differentiate",
+            "inputs": [
+                "mouse",
+                "timestamp"
+            ],
+            "name": "mouse_vel",
+            "params": {}
+        }
+    ]
+}
