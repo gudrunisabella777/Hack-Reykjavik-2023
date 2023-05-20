@@ -1,0 +1,25 @@
+{
+    "session_name": "b",
+    "system_user": "mitae",
+    "timestamp": "2023-05-20_11:46:10",
+    "argv": [
+        "C:\\Users\\mitae\\anaconda3\\envs\\hakkathon\\lib\\site-packages\\ipykernel_launcher.py",
+        "-f",
+        "C:\\Users\\mitae\\AppData\\Roaming\\jupyter\\runtime\\kernel-d03af3a3-02f0-450e-83cf-1f6ee84b1638.json"
+    ],
+    "platform": "win32",
+    "data_source": "Sampler",
+    "sample_rate": 100,
+    "signal_functions": [
+        {
+            "__signal_function__": true,
+            "type": "Differentiate",
+            "inputs": [
+                "mouse",
+                "timestamp"
+            ],
+            "name": "mouse_vel",
+            "params": {}
+        }
+    ]
+}
