@@ -1,5 +1,13 @@
 {
     "session_name": "m4",
+<<<<<<< HEAD
+    "system_user": "mitae",
+    "timestamp": "2023-05-20_15:17:49",
+    "argv": [
+        "C:\\Users\\mitae\\anaconda3\\envs\\hakkathon\\lib\\site-packages\\ipykernel_launcher.py",
+        "-f",
+        "C:\\Users\\mitae\\AppData\\Roaming\\jupyter\\runtime\\kernel-4e9918d4-91a2-4ac0-b834-a5340f6fb788.json"
+=======
     "system_user": "Lenovo",
     "timestamp": "2023-05-20_15:35:12",
     "argv": [
@@ -14,6 +22,7 @@
         "--transport=\"tcp\"",
         "--iopub=9009",
         "--f=c:\\Users\\Lenovo\\AppData\\Roaming\\jupyter\\runtime\\kernel-v2-292568nAx8AU4iy5R.json"
+>>>>>>> 7b604e8bbfc841c8536e2e4540d80b39061ec4a3
     ],
     "platform": "win32",
     "data_source": "Sampler",
