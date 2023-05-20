@@ -1,21 +1,18 @@
-<<<<<<< HEAD
-# Genki Signals
+# HackReykjavik hakkathon: LINGO!
+
+Language learning system built on handriting recognition. Keystroke recorded via trackpad is taken as input using Genki Signals.
+
+## Genki Signals
 
 Genki signals is a library to do real time signal processing and machine learning on sensor data. Using this library you
 can connect devices and stream data from them, and create processing pipelines to process the data. You can also
 visualize all of this in real time, and record data and serialize the pipelines to disk.
 
-## Installation
+### Installation
 Genki Signals is available on PyPi and can be installed using pip:
 ```bash
 pip install genki-signals
 ```
 
-## Usage
+### Usage
 Genki Signals is designed to work in Jupyter notebooks. You can find some examples in the [examples](examples) folder.
-
-=======
-# HackReykjavik hakkathon: LINGO!
-
-Language learning system built on handriting recognition 
->>>>>>> 7d5d1f9fbdd4f38a645fc014720ef10a11c856b1
